@@ -1,8 +1,4 @@
----
-layout: page
-title: Extra
-permalink: /extra/
----
+# Extra
 
 我做 PPT 的脚本 or 宏 or 软件配置
 

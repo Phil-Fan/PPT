@@ -1,8 +1,4 @@
----
-layout: page
-title: Best Practices
-permalink: /bp/
----
+# Best Practices
 
 一些个人做的 PPT 最佳实践
 
