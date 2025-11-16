@@ -7,7 +7,6 @@ title: PPT 模板中心
 
 ## 目录
 
-- [Rules](rules.md)：一些可以参照的规则
-- [Skills](skills.md)：可以总结复用的小技能
-- [Pics](pics.md)：PPT 绘图
-- [Refs](refs.md)：Awesome PPTs
+- [Best Practices](bp/index.md)：一些最佳实践
+- [Extra](extra/index.md)：一些宏 or 脚本 or 软件配置
+- [Templates](templates/index.md)：我做的一些 PPT 模版

@@ -6,10 +6,9 @@ theme: minima
 minima:
   nav_pages:
     - index.md
-    - rules.md
-    - skills.md
-    - refs.md
-    - pics.md
+    - bp/index.md
+    - extra/index.md
+    - templates/index.md
 
 # 让 markdown 正常渲染
 markdown: kramdown
