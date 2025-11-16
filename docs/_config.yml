@@ -1,0 +1,20 @@
+title: "PPT Template Library"
+description: "Phil Fan 的 PPT 模板、规则、技能库"
+theme: minima
+
+# 生成导航
+minima:
+  nav_pages:
+    - index.md
+    - rules.md
+    - skills.md
+    - refs.md
+    - pics.md
+
+# 让 markdown 正常渲染
+markdown: kramdown
+
+# GitHub Pages 推荐设置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

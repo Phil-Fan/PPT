@@ -1,4 +1,7 @@
-# Docs
+---
+layout: home
+title: PPT 模板中心
+---
 
 我做 PPT 的经验与踩过的坑
 
