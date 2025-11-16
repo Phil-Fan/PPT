@@ -2,6 +2,8 @@ title: "PPT"
 description: "Phil Fan 的 PPT 模板、规则、技能库"
 theme: minima
 
+remote_theme: jekyll/minima@d4d779a
+
 # 作者信息
 author:
   name: Phil Fan
@@ -20,10 +22,7 @@ minima:
   skin: dark
   show_excerpts: true # 显示摘要
   nav_pages:
-    - docs/index.md
-    - docs/bp/index.md
-    - docs/extra/index.md
-    - docs/templates/index.md
+    - index.md
   social_links:
     - name: GitHub
       url: https://github.com/Phil-Fan
