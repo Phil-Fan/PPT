@@ -1,14 +1,11 @@
-title: "PPT Template Library"
+title: "PPT"
 description: "Phil Fan 的 PPT 模板、规则、技能库"
 theme: minima
 
-# 生成导航
-minima:
-  nav_pages:
-    - index.md
-    - bp/index.md
-    - extra/index.md
-    - templates/index.md
+# 作者信息
+author:
+  name: Phil Fan
+  email: "hw.phil.fan@gmail.com"
 
 # 让 markdown 正常渲染
 markdown: kramdown
@@ -17,3 +14,18 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# 生成导航
+minima:
+  skin: dark
+  show_excerpts: true # 显示摘要
+  nav_pages:
+    - index.md
+    - bp/index.md
+    - extra/index.md
+    - templates/index.md
+  social_links:
+    - name: GitHub
+      url: https://github.com/Phil-Fan
+    - name: Gmail
+      url: mailto:hw.phil.fan@gmail.com
