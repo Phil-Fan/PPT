@@ -1,4 +1,8 @@
-# Templates
+---
+layout: page
+title: Templates
+permalink: /templates/
+---
 
 ## Template1: Beamer 风格
 

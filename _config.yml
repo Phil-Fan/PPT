@@ -20,10 +20,10 @@ minima:
   skin: dark
   show_excerpts: true # 显示摘要
   nav_pages:
-    - index.md
-    - bp/index.md
-    - extra/index.md
-    - templates/index.md
+    - docs/index.md
+    - docs/bp/index.md
+    - docs/extra/index.md
+    - docs/templates/index.md
   social_links:
     - name: GitHub
       url: https://github.com/Phil-Fan
