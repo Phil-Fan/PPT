@@ -1,4 +1,4 @@
-# Skills & Tools
+# Skills
 
 ## 快捷键
 
