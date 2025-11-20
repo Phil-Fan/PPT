@@ -22,7 +22,8 @@ minima:
   skin: dark
   show_excerpts: true # 显示摘要
   nav_pages:
-    - index.md
+    - docs/index.md
+    - examples/index.md
   social_links:
     - name: GitHub
       url: https://github.com/Phil-Fan
