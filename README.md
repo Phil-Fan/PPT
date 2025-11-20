@@ -16,9 +16,11 @@ PPT 民工，抄就完了！
 
 分为三个部分：
 
-- [Templates](templates/README.md)：我做的一些 PPT 模版
-- [Docs](docs/README.md)：我做 PPT 的经验与踩过的坑
-- [Extra](extra/README.md)：一些宏 or 脚本 or 软件配置
+- [Docs](docs/index.md)：记录我做 PPT 的模版、经验与踩过的坑
+  - [Best Practices](docs/bp/index.md)：一些最佳实践
+  - [Extra](docs/extra/index.md)：一些宏 or 脚本 or 软件配置
+  - [Templates](docs/templates/index.md)：我做的一些 PPT 模版
+- [Examples](examples/index.md)：本科做的一些 PPT 作业
 
 ## Quick Start
 
