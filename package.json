@@ -1,0 +1,17 @@
+{
+  "name": "ppt-templates",
+  "version": "1.0.0",
+  "description": "Phil Fan 的 PPT 模板、规则、技能库",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "keywords": ["ppt", "templates", "presentation", "vitepress"],
+  "author": "Phil Fan <hw.phil.fan@gmail.com>",
+  "license": "CC-BY-NC-SA-4.0"
+}

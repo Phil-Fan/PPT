@@ -1,0 +1,25 @@
+name: Markdown Quality Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: AutoCorrect
+        uses: huacnlee/autocorrect-action@main
+
+      - name: Markdown Lint
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          config: '.github/.markdownlint.json'
+          globs: |
+            README.md
+            docs/**/*.md
+            docs/*.md
